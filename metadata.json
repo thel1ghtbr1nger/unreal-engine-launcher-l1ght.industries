@@ -2,7 +2,7 @@
 	"description" : "Simple Launcher for Unreal Engine",
 	"name" : "unreal-engine-launcher",
 	"shell-version" : "43",
-	"url" : "Unreal-Engine-Launcher",
+	"url" : "https://github.com/thel1ghtbr1nger/unreal-engine-launcher-l1ght.industries",
 	"uuid" : "unreal-engine-launcher@l1ght.industries",
 	"version" : 1
 }
